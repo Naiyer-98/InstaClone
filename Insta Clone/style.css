@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+.container{
+    text-align: center;
+    
+}
+.insta{
+    margin-top: 20%;
+    font-size: xx-large
+    
+}
+.insta>form>{
+    height:30px
+}
+p{
+    color: rgb(15, 139, 217);
+  
+}
+
+input[type="text"],input[type="password"]{
+    padding-left: 10px;
+    position: relative;
+    height: 35px;
+    font-size: 17px;
+}
+button{
+    background-color: rgb(71, 172, 234);
+    color: white;
+    height: 30px;
+    width: 10%;
+  
+}
+form{
+    margin-top: 30px;
+ 
+}
+a{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.insta{
+    font-family: 'Pacifico', cursive;
+}
+p{
+    margin-left: 90px;
+}
+button{
+    width: 150%;
+}
+.fblink>span>a{
+    margin-top: 50px;
+}
+
+.fblink>span>a{
+    margin-top:70px;
+    color: rgb(15, 139, 217)
+}
+.or>p{
+    text-align: center;
+    margin-right: 50px;
+}
+input[type="text"],input[type="password"]{
+    width: 120%;
+   background-color: rgb(247, 240, 240);
+
+}
+p{
+    padding-left: 80px;
+    }
+input[type="password"]{
+    margin-top: 15px;
+}
+.fblink>span>a{
+    margin-left: 140px;
+    color: blue;
+}
+p{
+    margin-left: 60px;
+}
+.insta{
+   margin-left: 90px;
+}
+
+button{
+    font:bold;
+}
+.footer{
+    margin-top: 80px;
+}
+input::placeholder{
+    font-size: 13px;
+    transition: 0.3s ease;
+}
+button{
+    padding: 5px 0;
+    border-radius: 3px;
+    font-weight: bold;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    outline: none;
+    cursor: pointer;
+}
+button{
+    width: 120%;
+}
+or{
+    margin-right: 25px;
+}
+.fab fa-facebook>a{
+    margin-top: 20px;
+
+}
+
+.forget>p{
+    color: blue;
+}
